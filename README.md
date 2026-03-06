@@ -174,7 +174,7 @@ This project documents the setup and configuration of a fully functional Active 
 ![Windows Server Desktop](01-windows-server-desktop%20-.png)
 
 ### 2. Server Manager
-![Server Manager](02-server-manager%20-.png)
+![Server Manager](02-server-manager.png)
 
 ### 3. RAS Remote Access Installed
 ![RAS Installed](03-ras-remote-access-installed%20-.png)
