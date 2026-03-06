@@ -169,3 +169,59 @@ This project documents the setup and configuration of a fully functional Active 
 
 ## Screenshots
 All screenshots are located in the `/screenshots` folder of this repository and document each major step of the lab.
+
+## Screenshots
+
+### 1. Windows Server Desktop
+![Windows Server Desktop](01-windows-server-desktop%20-.png)
+
+### 2. Server Manager
+![Server Manager](02-server-manager%20-.png)
+
+### 3. RAS Remote Access Installed
+![RAS Installed](03-ras-remote-access-installed%20-.png)
+
+### 4. DHCP Installed
+![DHCP Installed](04-dhcp-installed.png.png)
+
+### 5. DHCP Scope Active
+![DHCP Scope Active](05-dhcp-scope-active.png.png)
+
+### 6. PowerShell Bulk Users
+![PowerShell Bulk Users](06-powershell-bulk-users.png)
+
+### 7. Active Directory Users
+![Active Directory Users](07-active-directory-users.png)
+
+### 8. 1052 Users Found
+![1052 Users Found](08-users-found.png)
+
+### 9. Windows 10 Client Desktop
+![Windows 10 Client Desktop](9-windows10-client-desktop..png)
+
+### 10. Domain Join Confirmation
+![Domain Join Confirmation](10-domain-join-confirmation%20(2).png)
+
+### 11. Windows 10 Desktop
+![Windows 10 Desktop](11-windows10-client-desktop.png)
+
+### 12. Both VMs Running
+![Both VMs Running](12-both-vms-running.png)
+
+### 13. Server Manager All Green
+![Server Manager All Green](13-server-manager-all-green.png)
+
+### 14. Password Reset
+![Password Reset](14-password-reset.png)
+
+### 15. Disable User
+![Disable User](15-disable-user.png)
+
+### 16. Unlock Account
+![Unlock Account](16-unlock-account.png)
+
+### 17. New User Creation
+![New User Creation](17-new-user-creation.png)
+
+### 18. New User Properties
+![New User Properties](18-new-user-properties.png)
