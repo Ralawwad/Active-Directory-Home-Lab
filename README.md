@@ -167,8 +167,6 @@ This project documents the setup and configuration of a fully functional Active 
 
 ---
 
-## Screenshots
-All screenshots are located in the `/screenshots` folder of this repository and document each major step of the lab.
 
 ## Screenshots
 
